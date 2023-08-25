@@ -1,0 +1,23 @@
+.color1{
+    text-align:center;
+    font-size:large;
+    color:gray;
+}
+.text{
+    text-align:left;
+    font-size:small;
+    color:gray;
+}
+.size{
+    font-size:x-large;
+}
+.discord-table{
+    background-color:black;
+    width: 45%;
+}
+.alert {
+    padding: 20px;
+    background-color: #f44336; /* Red */
+    color: white;
+    margin-bottom: 15px;
+  }
