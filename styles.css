@@ -38,7 +38,7 @@
   }
 .thing{
     position:absolute;
-    bottom:20px;
+    bottom:115px;
     background-color: rgb(0,0,0);
     color:gray;
     height: 30px;
@@ -48,7 +48,7 @@
 .thing2{
     background-color: rgb(0, 0, 0);
     position:absolute;
-    bottom:20px;
+    bottom:115px;
     left:460px;
     color:gray;
     height:30px;
@@ -58,8 +58,8 @@
 .thing3{
     background-color: rgb(0, 0, 0);
     position:absolute;
-    bottom:20px;
-    left:570px;
+    bottom:115px;
+    left:565px;
     color:gray;
     height:30px;
     width:100px;
